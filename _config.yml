@@ -1,1 +1,31 @@
-theme: jekyll-theme-Slate
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Site Settings
+title: "Bao Nguyen - Fusion and Accelerator Physics"
+description: "Showcasing research and achievements in fusion and accelerator physics."
+
+
+# Author Settings
+author:
+  name: "Bao Nguyen"
+  bio: "Physics student with a strong interest in accelerator and fusion physics."
+  location: "Cambridge, MA, USA"
+
+# Contact Information
+email: "wgn21@ic.ac.uk"
+
+# Social Media Links
+social:
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/wnguyen1312"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin-in"
+    url: "https://www.linkedin.com/in/william-bao-nguyen/"
+  - label: "Google Scholar"
+    icon: "fas fa-graduation-cap"
+    url: "https://scholar.google.com/citations?user=113hVE8AAAAJ&hl=en"
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes
